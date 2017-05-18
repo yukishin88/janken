@@ -1,3 +1,9 @@
 function action(oppornent){
-  return 1;
+  console.log(oppornent);
+  return 0;
 }
+
+// //チョキ大好きマンに対するアクション
+// function artionAgainstOmoteira(){
+// console.log
+// }
